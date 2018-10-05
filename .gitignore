@@ -1,0 +1,3 @@
+# Project-specfic ignores
+.vscode
+*.code-workspace
