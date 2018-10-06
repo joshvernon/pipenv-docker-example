@@ -12,4 +12,3 @@ print(f"sys.version: {sys.version}")
 print(f"sys.path: {sys.path}")
 print(f"sys.executable: {sys.executable}")
 print(f"requests version: {requests.__version__}")
-
